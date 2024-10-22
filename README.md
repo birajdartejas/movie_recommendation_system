@@ -67,4 +67,3 @@ This is a **Movie Recommendation System** built using **Machine Learning**. The 
 - The system will return a list of movies that are similar or recommended based on your search.
 - You can filter recommendations based on genres, user ratings, or year of release.
 
-## Project Structure
